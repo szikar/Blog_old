@@ -67,23 +67,11 @@
     </LinkMapSettings>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.5.3 virtualenv at ~/Fejlesztes/Projekt/Virtualenv/Django" project-jdk-type="Python SDK" />
+  <component name="TaskProjectConfiguration">
+    <server type="YouTrack" url="http://185.80.48.167:8000" />
+  </component>
   <component name="VagrantProjectSettings">
     <option name="instanceFolder" value="" />
     <option name="provider" value="" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
